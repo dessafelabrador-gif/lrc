@@ -1,0 +1,19 @@
+body{
+	background: #C797BB;
+}
+.header {
+	background: #315CB0; 
+	height: 150px; 
+}
+.banner {
+	background: #8086D9; 
+	height: 150px; 
+}
+.content { 
+	background: #C29395; 
+	height: 150px; 
+}
+.footer {
+	background: #74AD88; 
+	height: 150px; 
+}
